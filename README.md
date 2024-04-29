@@ -6,7 +6,7 @@
 <p>I am a currently 16yo software engineer, living in Coburg, Germany.<b3/> As a Trainee in computer science, programming is also my Job.</p>
 
 <h4>My Experience💡</h4>
-<p>While currently working much in JavaScript/React, I have experience in many different topics like
+<p>While working much in JavaScript/React, I have experience in many different topics like
   <ul>
     <li>Godot game engine</li>
     <li>Java (especially with SpringBoot)</li>
